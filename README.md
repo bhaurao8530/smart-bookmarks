@@ -4,7 +4,7 @@ A real-time bookmark manager where users sign in with Google and manage private 
 
 ## Live App
 
-https://smart-bookmarks-3ymywkb2h-bhaurao8530s-projects.vercel.app/
+https://smart-bookmarks-ivory.vercel.app/
 
 ## Tech Stack
 
