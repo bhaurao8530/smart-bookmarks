@@ -23,26 +23,10 @@ https://smart-bookmarks-3ymywkb2h-bhaurao8530s-projects.vercel.app/
 * Delete bookmarks
 * Deployed on Vercel
 
-## Run Locally
-
-Clone repo
-
-```
-git clone <your-repo-url>
-cd smart-bookmarks
-```
-
 Install packages
 
 ```
 npm install
-```
-
-Create `.env.local`
-
-```
-NEXT_PUBLIC_SUPABASE_URL=your_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_key
 ```
 
 Start project
@@ -51,6 +35,3 @@ Start project
 npm run dev
 ```
 
-## Demo Video
-
-(Add your Loom / Drive link here)
